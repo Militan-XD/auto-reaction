@@ -32,4 +32,4 @@ This github account donot represent or promote any illegal activity. Use this to
 <a href='https://facebook.com/GARANGAN.KECHE' target=_blank>Facebook</a> <br>
 <a href='https://instagram.com/militan2708' target=_blank>Instagram</a> <br>
 <a href='https://twitter.com/Raka_Andrian27' target=_blank>Twitter</a> <br>
-<a href='https://myaccount.google.com/raka.tara21@gmail.com' target=_blank>Gmail</a> <br>
+
