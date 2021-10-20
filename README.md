@@ -14,7 +14,7 @@ pkg install git php curl
 
 pkg install git php curl -y 
 
-git clone https://github.com/Raka-Andrian/FB-React.git 
+git clone https://github.com/Raka-Andrian/auto-reaction
 
 chmod +x FB-React -R 
 
