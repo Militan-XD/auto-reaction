@@ -35,8 +35,7 @@ This github account donot represent or promote any illegal activity. Use this to
 ![Screenshot_20211018-214822_Termux](https://user-images.githubusercontent.com/88669346/137792316-be115171-8004-4a88-8255-f290516fe7a8.jpg)
 
 # Contact<br>
-<a href='https://facebook.com/GARANGAN.KECHE' target=_blank>Facebook</a> <br>
-<a href='https://instagram.com/militan2708' target=_blank>Instagram</a> <br>
-<a href='https://twitter.com/Raka_Andrian27' target=_blank>Twitter</a> <br>
+
+[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://twitter.com/Raka_Andrian27) [![](https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=Brightgreen&labelColor=white)](https://instagram.com/militan2708)
 
 
